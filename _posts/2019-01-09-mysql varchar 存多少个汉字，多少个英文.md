@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: varchar 存多少个汉字，多少个英文
-categories: [database mysql]
+categories: [database, mysql]
 ---
 
 #### 1. 关于UTF-8

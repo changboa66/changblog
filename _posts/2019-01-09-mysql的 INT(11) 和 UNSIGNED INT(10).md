@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: mysql的 INT(11) 和 UNSIGNED INT(10)
-categories: [database mysql]
+categories: [database, mysql]
 ---
 
 在MySQL中，如果我们创建一个字段dataType的INT，没有指定任何长度/值，那么它自动变为int(11)，如果我们设置属性UNSIGNED或UNSIGNED ZEROFILL，那么它变成int(10)
