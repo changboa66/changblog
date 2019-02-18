@@ -16,6 +16,6 @@ git log --graph --pretty="%C(Yellow)%h %C(Cyan)【%an】 %C(reset)%ad %C(Green)(
 ```
 // 打开文件
 vi ~/.bash_profile
-// 将短命令添加到文件末尾
-git log --graph --pretty="%C(Yellow)%h %C(Cyan)【%an】 %C(reset)%ad %C(Green)(%cr)%C(reset)  %C(reset)%s" --date=format:"%Y-%m-%d %H:%M:%S" -n 12 --name-status
+// 将短命令添加到文件末尾glog=........
+alias glog='func() { git log --graph --pretty="%C(Yellow)%h %C(Cyan)【%an】 %C(reset)%ad %C(Green)(%cr)%C(reset)  %C(reset)%s" --date=format:"%Y-%m-%d %H:%M:%S" -n 12 --name-status --author=$1;}; func'
 ```
