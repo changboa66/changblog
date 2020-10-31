@@ -3,7 +3,7 @@ encoding: utf-8
 # SEO相关信息
 title: zhangchang的Blog
 description: zhangchang的Blog
-keywords: Java, 数据结构, 算法, 多线程, 设计模式, spring, Http
+keywords: Java, 数据结构, 数据结构和算法, java多线程, 设计模式, Spring, Http, 架构, Redis, Zookeeper, MySQL
 author: zhangchang
 
 # 项目环境

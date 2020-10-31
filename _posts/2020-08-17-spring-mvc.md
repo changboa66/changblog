@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Spring-MVC
-categories: [java]
+categories: [Spring]
 ---
 
 #### Spring MVC执行流程
