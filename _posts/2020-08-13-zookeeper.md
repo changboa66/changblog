@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: zookeeper
-categories: [java]
+categories: [Zookeeper]
 ---
 #### zookeeper命令
 ```
